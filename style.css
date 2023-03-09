@@ -1,0 +1,28 @@
+.newClass{
+           display:none;
+       }
+      
+       #contact,#about {
+           background-color:#faf9f9;
+           
+       }
+       p{
+           margin-left:5%;
+           margin-right:5%;
+       }
+       #raiane{
+           height:80px;
+       }
+       #principal{
+           text-align:center;
+       }
+       .navbar-custom{
+           background-color: #38385b;
+           
+       }
+       #navbarText{
+           color:white;
+       }
+       .navbar-nav > li >a{
+  color: white;
+}
